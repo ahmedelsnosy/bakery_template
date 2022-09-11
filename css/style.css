@@ -1,0 +1,68 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Alegreya Sans", sans-serif;
+}
+.header {
+  background-image: url(../images/drew-coffman-1872.jpg);
+  background-size: cover;
+  background-position: center center;
+}
+.btn1 {
+  background-color: rgb(142, 119, 84);
+  color: #fff;
+  padding: 15px 20px;
+}
+.btn2 {
+  padding: 15px 20px;
+  background-color: transparent;
+  border: 2px solid white;
+  color: #fff;
+}
+.content h1{
+  font-size: 5rem;
+  
+}
+.baker-2 {
+  line-height: 2rem;
+}
+.content-text {
+  line-height: 2rem;
+}
+.contact-text {
+  line-height: 2rem;
+}
+#footer {
+  background-color: #353330;
+  color: #fff;
+}
+#footer span i {
+  color: #fff;
+  font-size: 1rem;
+}
+#footer .line {
+  width: 11rem;
+  height: 0.01rem;
+  background-color: #fff;
+}
+#footer .over-layer {
+  background-image: url(../images/contact-details-map.png);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+#footer .main-bg {
+  background-color: #353330d5;
+}
+#footer .main-bg a {
+  text-decoration: none;
+  color: #fff;
+}
+#footer .main-bg a:hover {
+  color: #09c;
+}
+.end {
+  background-color: #262523;
+}
